@@ -1,4 +1,4 @@
-package com.kozhemyakin.lab2;
+package com.kozhemyakin.lab3;
 
 import java.util.List;
 import java.util.Random;
